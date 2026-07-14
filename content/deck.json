@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "2026 상반기 실적 리뷰 & 하반기 성장 전략",
+    "company": "ONLIVE COMMERCE",
+    "author": "전략기획팀"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "2026 HALF-YEAR BUSINESS REVIEW",
+      "title": "상반기 실적 리뷰 &\n하반기 성장 전략",
+      "subtitle": "온리브커머스 전사 경영회의 · 2026. 7. 14",
+      "footnote": "대표이사 보고"
+    },
+    {
+      "type": "agenda",
+      "kicker": "AGENDA",
+      "title": "오늘 다룰 내용",
+      "desc": "상반기 성과와 하반기 실행 계획을 중심으로 보고드립니다.",
+      "items": [
+        { "head": "상반기 핵심 성과", "desc": "주요 경영 지표 하이라이트" },
+        { "head": "분기별 매출 추이", "desc": "성장 흐름 분석과 시사점" },
+        { "head": "하반기 전략 로드맵", "desc": "3단계 실행 계획과 마일스톤" },
+        { "head": "협조 요청 사항", "desc": "투자 · 인력 · 전사 협업 안건" }
+      ]
+    },
+    {
+      "type": "kpis",
+      "section": "실적 리뷰",
+      "kicker": "H1 2026 · 상반기 핵심 성과",
+      "title": "매출 +21.6%, 전 지표가 성장했습니다",
+      "hero": {
+        "icon": "trend",
+        "label": "매출액 (상반기 누적)",
+        "value": "186",
+        "unit": " 억원",
+        "delta": "▲ 21.6%",
+        "deltaDir": "pos",
+        "note": "YoY",
+        "desc": "물류 자동화 1단계로 수익성 동반 개선"
+      },
+      "subs": [
+        { "icon": "cart", "label": "거래액 (GMV)", "value": "1,240", "unit": "억원", "delta": "▲ 18.0%", "deltaDir": "pos" },
+        { "icon": "users", "label": "신규 가입자", "value": "32.4", "unit": "만 명", "delta": "▲ 15.2%", "deltaDir": "pos" },
+        { "icon": "repeat", "label": "재구매율", "value": "41.2", "unit": "%", "delta": "▲ 3.5%p", "deltaDir": "pos" }
+      ],
+      "summary": {
+        "head": "KEY IMPLICATION",
+        "bullets": [
+          "매출 성장의 약 60%가 기존 고객에서 발생 — 멤버십 리뉴얼 이후 재구매율이 두 분기 연속 상승",
+          "신규 가입 성장률은 전년 23%에서 15%로 둔화 — 하반기 신규 유입 채널 다변화가 필요한 시점"
+        ]
+      }
+    },
+    {
+      "type": "chartStory",
+      "section": "실적 리뷰",
+      "kicker": "분기별 매출 추이",
+      "title": "8분기 연속 성장, 분기 매출 사상 최대",
+      "chart": {
+        "name": "매출",
+        "label": "분기 매출 (억원, VAT 제외)",
+        "callout": "26.2Q 97억 · 사상 최대",
+        "highlightIndex": 7,
+        "labels": ["24.3Q", "24.4Q", "25.1Q", "25.2Q", "25.3Q", "25.4Q", "26.1Q", "26.2Q"],
+        "values": [66, 71, 74, 79, 81, 86, 89, 97]
+      },
+      "takeaways": [
+        { "head": "8개 분기 연속 성장", "desc": "26.2Q 매출 97억 원으로 분기 기준 사상 최대치를 경신했습니다." },
+        { "head": "수익성 동반 개선", "desc": "물류 자동화 1단계 효과로 공헌이익률이 전년 대비 2.1%p 상승했습니다." },
+        { "head": "연간 목표 진척률 48%", "desc": "하반기 성수기 계절성을 감안하면 연간 목표 달성 궤도에 있습니다." }
+      ],
+      "source": "* 내부 정산 데이터 기준 (2026. 6. 30 마감) · 본 자료의 수치는 데모용 가상 데이터입니다"
+    },
+    {
+      "type": "sectionDivider",
+      "number": "02",
+      "kicker": "PART 2",
+      "title": "하반기 성장 전략",
+      "desc": "3단계 실행 로드맵과 이를 위한 전사 협조 요청 사항입니다."
+    },
+    {
+      "type": "roadmap",
+      "section": "하반기 전략",
+      "kicker": "H2 2026 · 하반기 로드맵",
+      "title": "3단계로 하반기 성장을 가속합니다",
+      "phases": [
+        {
+          "icon": "target",
+          "phase": "PHASE 1",
+          "period": "7 – 8월",
+          "name": "기반 강화",
+          "items": ["물류 자동화 2단계 착수", "멤버십 등급제 개편", "데이터 거버넌스 정책 수립"]
+        },
+        {
+          "icon": "globe",
+          "phase": "PHASE 2",
+          "period": "9 – 10월",
+          "name": "성장 가속",
+          "items": ["글로벌 역직구 베타 오픈", "신규 유입 채널 3종 테스트", "제휴 커머스 파트너십 확대"]
+        },
+        {
+          "icon": "zap",
+          "phase": "PHASE 3",
+          "period": "11 – 12월",
+          "name": "성과 극대화",
+          "items": ["연말 대형 프로모션 집행", "AI 추천 고도화 전면 적용", "2027 사업계획 수립"]
+        }
+      ]
+    },
+    {
+      "type": "closing",
+      "kicker": "NEXT STEPS",
+      "title": "세 가지 협조를 요청드립니다",
+      "cards": [
+        { "head": "투자 승인", "desc": "물류 자동화 2단계 CAPEX 45억 원의 3분기 내 집행 승인을 요청드립니다." },
+        { "head": "인력 충원", "desc": "글로벌 사업 TF 5명(개발 3 · 사업 2)의 9월 온보딩을 목표로 채용 협조를 요청드립니다." },
+        { "head": "전사 협업", "desc": "데이터 거버넌스 정책 수립에 각 본부 리드의 참여를 요청드립니다." }
+      ],
+      "contact": "온리브커머스 전략기획팀 · strategy@onlive-commerce.example"
+    }
+  ]
+}
